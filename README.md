@@ -8,7 +8,7 @@ You're helping build the backend of a course enrollment platform. In this assign
 
 ## **Schema Requirements**
 
-### **General Guidelines**
+### **General Guidelines** 
 
 - Use proper data types and Mongoose validators
 - Ensure fields like email are unique
