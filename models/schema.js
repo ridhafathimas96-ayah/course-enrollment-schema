@@ -7,13 +7,13 @@ const studentSchema = new mongoose.Schema({
   name: {
     type: String,
     required: true,
-    purpose: "Rida
+    purpose: "Rida",
   },
   email: {
     type: String,
     required: [true, "Email is required"],
     unique: true,
-    purpose: "Ridail.com",
+    purpose: "Rida@gmail.com",
   },
   enrollmentDate: {
     type: Date,
